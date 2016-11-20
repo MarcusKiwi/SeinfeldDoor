@@ -27,7 +27,7 @@ base
     └───project files
 ```
 
-Run `make` from inside the CompRemote folder to build the HEX file.
+Run `make` from inside the SeinfeldDoor folder to build the HEX file.
 
 Run `make install` to build it flash it to an AVR. Default programmer type is usbasp. This can be changed in the file `base/AVR-Libs/makefile`.
 
